@@ -1,0 +1,32 @@
+body{
+    font-family: 'Monserrat', sans-serif ;
+    overflow-x: hidden;
+}
+/*===============MENU==========================================*/
+
+#menu li > a{
+    font-size: 18px;
+    font-weight: bold;
+    color: #3f3f3f;
+}
+
+#menu form > button {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.carousel-inner {
+    max-height: 39rem;
+}
+
+/*MEDIA QUERIES PANTALLA SM*/
+
+@media (max-width:768px) {
+    #intro {
+        width:90% !important;
+  .servicio-fila {
+
+
+  }
+    }
+}
